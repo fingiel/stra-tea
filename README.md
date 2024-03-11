@@ -1,1 +1,1 @@
-# stra-tea
+# star-tea
